@@ -32,7 +32,6 @@ There were a lot of images where it was borderline like/dislike, on top of that 
 > * PyQt5 
 
 ## Running AutoTinder
-* Execute
 ```
 $ python main.py
 ```
