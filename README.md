@@ -8,7 +8,7 @@ Firstly, I created the tool using the Tinder API, PyQt5 and some other libraries
 But I was not done yet, this could be automated even more. Instead of me running the script manually every 12 hours or so, wouldn't it be great if the script ran automatically after every 12 hours (time taken to regenerate likes). I was able to achieve this through Azure's WebJobs. This was a little bit tricky as I had to bundle the required libraries with the script.
 ## Azure's CustomVision Results
 ![image](https://user-images.githubusercontent.com/12884292/50387252-8daf9680-0700-11e9-9eb3-5d52ff8b546e.png)
-There were a lot of images where it was borderline like/dislike, on top of that group selfies made it even more problematic and the good old useless images of animals and memes had to be disliekd. Their general Model doesn't specifically recognize faces, which in addition to the previously mentioned reasons explains the results.
+There were a lot of images where it was borderline like/dislike, on top of that group selfies made it even more problematic and the good old useless images of animals and memes had to be disliked. Their general Model doesn't specifically recognize faces, which in addition to the previously mentioned reasons explains the results.
 
 ## Azure Webjobs automation ScreenCaptures
 ![image](https://user-images.githubusercontent.com/12884292/50387303-5ee5f000-0701-11e9-9caf-4a91c43626f1.png)
