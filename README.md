@@ -52,7 +52,7 @@ __Instructions__
 ## Future Work
 > Train on VGG-Face Model to get better results.
 
-
-
-
-
+## Credits
+> * https://soundcloud.com/theaipodcast/ai-tinder-dating
+> * https://github.com/fbessez/Tinder
+> * https://github.com/philipperemy/Deep-Learning-Tinder
