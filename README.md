@@ -18,18 +18,18 @@ There were a lot of images where it was borderline like/dislike, on top of that 
 
 
 ## Programs Used
-* Azure WebJobs
-* [Azure CustomVision](https://www.customvision.ai)
-* [TinderAPI](https://github.com/fbessez/Tinder)
+> * Azure WebJobs
+> * [Azure CustomVision](https://www.customvision.ai)
+> * [TinderAPI](https://github.com/fbessez/Tinder)
   I got to know there is another cool API that you can use [Pynder](https://github.com/charliewolf/pynder)
 
 ## Dependencies
-* python 3.6
-* requests
-* robobrowser
-* BeautifulSoup4
-* lxml
-* PyQt5 
+> * python 3.6
+> * requests
+> * robobrowser
+> * BeautifulSoup4
+> * lxml
+> * PyQt5 
 
 ## Running AutoTinder
 * Execute
@@ -42,10 +42,10 @@ $ python main.py
 $ python tindertool.py
 ```
 __Instructions__
-  - Login with your Facebook Credentials
-  - Select on Generate Data Tab and select preferences.
-  - Click on Generate Data as many times as you wish before you get rate limited or wipe the data of your locality.
-  - Click on Label Data and have fun labeling 
+>  - Login with your Facebook Credentials
+>  - Select on Generate Data Tab and select preferences.
+>  - Click on Generate Data as many times as you wish before you get rate limited or wipe the data of your locality.
+>  - Click on Label Data and have fun labeling 
 ![image](https://user-images.githubusercontent.com/12884292/50387067-cbaabb80-06fc-11e9-95fc-f87fedc95893.png)
 ![image](https://user-images.githubusercontent.com/12884292/50387121-9eaad880-06fd-11e9-80d5-0b066fbc9cd2.png)
 
