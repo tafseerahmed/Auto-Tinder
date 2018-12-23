@@ -1,4 +1,4 @@
-# AutoTinder <img src="https://user-images.githubusercontent.com/12884292/50386865-98662d80-06f8-11e9-881f-285d04dbeb19.png" width="50" height="50">
+# AutoTinder <img src="https://user-images.githubusercontent.com/12884292/50386865-98662d80-06f8-11e9-881f-285d04dbeb19.png" width="30" height="30">
 
 
 Python based Tinder automation script, created to solve mankind's most important need. <br/>
