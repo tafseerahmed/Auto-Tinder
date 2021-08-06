@@ -1,3 +1,3 @@
-username = "samsamsamrox1212@gmail.com"
-password = "Tafseerahmed123!"
+username = "uremail"
+password = "ur password"
 host = 'https://api.gotinder.com'
