@@ -1,4 +1,4 @@
 robobrowser==0.5.3
 lxml==4.2.5
-requests==2.21.0
+requests==2.31.0
 beautifulsoup4==4.6.3
